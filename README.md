@@ -51,14 +51,17 @@
 
 <h2> 🚀 Current Goals & Learning Roadmap</h2>
 
-- [x] Master **HTML, CSS, JavaScript** basics  
-- [x] Build projects with **React.js**  
-- [ ] Learn **Node.js & Express.js**  
-- [ ] Explore **Databases (MongoDB & SQL)**  
-- [ ] Practice **Data Structures & Algorithms**  
-- [ ] Build **AI-powered dashboards with Python & ML**  
-- [ ] Contribute to **Open Source Projects**  
-- [ ] Land a **Full Stack Internship / Remote Work**  
+<!-- ROADMAP-START -->
+- [x] Master HTML, CSS, JavaScript basics
+- [x] Build projects with React.js
+- [ ] Learn Node.js & Express.js
+- [ ] Explore Databases (MongoDB & SQL)
+- [ ] Practice Data Structures & Algorithms
+- [ ] Build AI-powered dashboards with Python & ML
+- [ ] Contribute to Open Source Projects
+- [ ] Land a Full Stack Internship / Remote Work
+<!-- ROADMAP-END -->
+
 
 ---
 
