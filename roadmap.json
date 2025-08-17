@@ -1,0 +1,12 @@
+{
+  "goals": [
+    { "task": "Master HTML, CSS, JavaScript basics", "done": true },
+    { "task": "Build projects with React.js", "done": true },
+    { "task": "Learn Node.js & Express.js", "done": false },
+    { "task": "Explore Databases (MongoDB & SQL)", "done": false },
+    { "task": "Practice Data Structures & Algorithms", "done": false },
+    { "task": "Build AI-powered dashboards with Python & ML", "done": false },
+    { "task": "Contribute to Open Source Projects", "done": false },
+    { "task": "Land a Full Stack Internship / Remote Work", "done": false }
+  ]
+}
